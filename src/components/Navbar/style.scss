@@ -1,0 +1,40 @@
+#navbar {
+
+    background-color: #a87c49;
+
+    img {
+        width: 60px;
+    }
+
+    .my-btn {
+        color: white;
+        background-color: #231709;
+        font-size: 16px;
+
+        &:hover {
+            background-color: #231709;
+            color: white;
+        }
+
+        &:active {
+            background-color: #231709 !important;
+            color: white !important;
+            filter: brightness(85%);
+        }
+    }
+
+    .nav-link {
+        color: white;
+        margin: 0 20px;
+     
+    
+        &.active {
+            color: #231709 !important;
+        }
+    
+        &:hover {
+            color: white;
+            text-shadow: 0 8px 8px rgba(0, 0, 0, 0.8); 
+        }
+    }
+}
