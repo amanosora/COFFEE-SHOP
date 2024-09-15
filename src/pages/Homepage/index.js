@@ -1,4 +1,4 @@
-import React, { useState } from 'react'; // 确保导入 useState
+import React from 'react';
 import "./style.scss";
 import { Container, Row, Col, Image } from "react-bootstrap";
 import coffee1 from './coffee cup1.png';
