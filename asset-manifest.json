@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/COFFEE-SHOP/static/css/main.f388af3a.css",
-    "main.js": "/COFFEE-SHOP/static/js/main.64dba9d9.js",
-    "static/js/453.ad6eb26e.chunk.js": "/COFFEE-SHOP/static/js/453.ad6eb26e.chunk.js",
-    "static/media/coffee cup1.png": "/COFFEE-SHOP/static/media/coffee cup1.dd444d03025e2002d961.png",
-    "static/media/service1.jpg": "/COFFEE-SHOP/static/media/service1.2960eaa59107ca483549.jpg",
-    "static/media/service3.jpg": "/COFFEE-SHOP/static/media/service3.c18a20335e804b9e1e62.jpg",
-    "static/media/service2.jpg": "/COFFEE-SHOP/static/media/service2.b3489f866e1c7b383c59.jpg",
-    "static/media/service4.jpg": "/COFFEE-SHOP/static/media/service4.84cdaa8137f513e88681.jpg",
-    "static/media/coffee cup2.png": "/COFFEE-SHOP/static/media/coffee cup2.f2cf22b5f8842dd1c0d7.png",
-    "static/media/logo.png": "/COFFEE-SHOP/static/media/logo.f0ff6dd141c5dd924cc4.png",
-    "static/media/bootstrap-icons.woff?": "/COFFEE-SHOP/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/COFFEE-SHOP/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/COFFEE-SHOP/index.html",
-    "main.f388af3a.css.map": "/COFFEE-SHOP/static/css/main.f388af3a.css.map",
-    "main.64dba9d9.js.map": "/COFFEE-SHOP/static/js/main.64dba9d9.js.map",
-    "453.ad6eb26e.chunk.js.map": "/COFFEE-SHOP/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/static/css/main.ec29f453.css",
+    "main.js": "/static/js/main.c3c7b255.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/coffee cup1.png": "/static/media/coffee cup1.dd444d03025e2002d961.png",
+    "static/media/service1.jpg": "/static/media/service1.2960eaa59107ca483549.jpg",
+    "static/media/service3.jpg": "/static/media/service3.c18a20335e804b9e1e62.jpg",
+    "static/media/service2.jpg": "/static/media/service2.b3489f866e1c7b383c59.jpg",
+    "static/media/service4.jpg": "/static/media/service4.84cdaa8137f513e88681.jpg",
+    "static/media/coffee cup2.png": "/static/media/coffee cup2.f2cf22b5f8842dd1c0d7.png",
+    "static/media/logo.png": "/static/media/logo.f0ff6dd141c5dd924cc4.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/index.html",
+    "main.ec29f453.css.map": "/static/css/main.ec29f453.css.map",
+    "main.c3c7b255.js.map": "/static/js/main.c3c7b255.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f388af3a.css",
-    "static/js/main.64dba9d9.js"
+    "static/css/main.ec29f453.css",
+    "static/js/main.c3c7b255.js"
   ]
 }
